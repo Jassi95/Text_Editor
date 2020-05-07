@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">week 11</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Menu</string>
+    <string name="nav_header_subtitle">" "</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Change string</string>
+    <string name="menu_slideshow">Settings</string>
+
+    <string name="Allow_change">Allow change</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="font_size">Font Size</string>
+    <string name="font_family">Font Family</string>
+    <string name="line_spacing">Line Spacing</string>
+    <string name="update_name">UPDATE NAME</string>
+    <string name="change_language">Change language</string>
+    <string name="warning_language">!WARNING!\n resets the app</string>
+
+    <string-array name="languages">
+        <item>""</item>
+        <item>English</item>
+        <item>Suomi</item>
+        <item>Svenska</item>
+    </string-array>
+</resources>
